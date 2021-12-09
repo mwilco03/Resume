@@ -1,0 +1,150 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Mack Wilcox
+    tagline: Cyber Security Professional 
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: mwilco03@gmail.com
+    linkedin: wilcom03
+    github: mwilco03
+    
+    languages:
+      - idiom: English
+        level: Native
+
+    interests:
+      - item: Hacking
+        link:
+
+      - item: Electronics
+        link:
+
+      - item: Engineering
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Cyber security profesional, non-traditional background, from helpdesk to 
+      systems administration. Extreme dedication and passion driven for success. 
+      Military trained in conducting full spectrum cyber operations. 
+      
+education:
+    - degree: Information Technology Spechialist (25B)
+      university: Fort Gordon Signal Center of Excelence 
+      details: |
+        Information Technology Specialist installs, operates, maintains 
+        computer systems and information technology networks. Provides 
+        the security services of availability, authentication, confidentiality, 
+        integrity and non-repudiation.
+          - System administration 
+          - Information Assurance 
+          - Network Operations
+          - Service Desk Management
+- degree: Cyber Warfare Operator
+      university: Michigan Air National Guard
+      details: |
+        Conduct full defensive and offensive cyber operations, risk managment 
+        plans, compliance, vunerability assessments, and adversary emulation.
+        Operate as member of a cyber protection team. Preforming evaluations 
+        on customer systems & networks. 
+          - Secure Configuration
+          - Information Assurance 
+          - Automation
+          - Security Analysis
+          
+experiences:
+    - role: Incident Response
+      time: 2018 - Present
+      company: Nationwide
+      details: |
+        Incident responders react to emergent cyber security events that 
+        pose an iminent concern to an organization. Preforming analysis
+        of suspected compromised systems. Evaluation of operational 
+        intelligence. Reviewing novel exploits and entereprise impact.
+          - Forensic Analysis
+          - Adversary Emulation
+          - Risk Managment
+          - Compliance
+          - Vulnerability Mgmt / Mitigation 
+          - Automation 
+    - role: Senior Offensive Security Engineer
+      time: 2016 - 2018
+      company: The Wendy''s Company
+      details: |
+        Offensive Security conduct adversary emulation on a enterprise 
+        scale. Engaging in phishing, vishing, employing threat actor
+        tactics techniques and proceedures. Developing a more resilliant 
+        organization. Finding the bad before the bad finds you.
+          - Exploitaion 
+          - Priviledge Escaltaion 
+          - Enumeration 
+          - Automation
+          - OWASP 
+          - Secure Development
+    - role: Systems Administrator
+      time: 2012 - 2016
+      company: Saginaw Veterans Affairs Medical Center
+      details: |
+        Developed cache server pages, remediated records electronic 
+        health records. Conducted traditional helpdesk operations, 
+        ticket queue, maintnance, network, device, and systems 
+        configurations. Managed domain active directory.
+          - Bullet point
+          - Bullet point
+          
+projects:
+    title: Projects
+    intro: |
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+
+publications:
+    title: Presentations
+    intro: |
+      Citations below are a few of my role specific speaking engagments.
+    papers:
+      - title: Powershell Hacking 
+        link: "#"
+        authors: Mack Wilcox
+        conference: "DC614 Nov 2018"
+
+      - title: "Let's Nmap Together"
+        link: "#"
+        authors: Andrew List, Mack Wilcox
+        conference: "Ohio Information Security Summit "
+
+      - title: Cyber Patriot 
+        link: "#"
+        authors: Mack Wilcox
+        conference: "Cyber Patriot Battle Creek, MI"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Powershell
+        level: 100%
+
+      - name: Python 
+        level: 98%
+
+      - name: Automation
+        level: 75%
+
+      - name: Javascript
+        level: 45%
