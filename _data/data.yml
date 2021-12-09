@@ -36,28 +36,28 @@ career-profile:
       systems administration. Extreme dedication and passion driven for success. 
       Military trained in conducting full spectrum cyber operations.       
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Information Technology Spechialist (25B)
+      university: Fort Gordon Signal Center of Excelence 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Information Technology Specialist installs, operates, maintains 
+        computer systems and information technology networks. Provides 
+        the security services of availability, authentication, confidentiality, 
+        integrity and non-repudiation.
+          - System administration 
+          - Information Assurance 
+          - Network Operations
+          - Service Desk Management
+- degree: Cyber Warfare Operator
+      university: Michigan Air National Guard
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Conduct full defensive and offensive cyber operations, risk managment 
+        plans, compliance, vunerability assessments, and adversary emulation.
+        Operate as member of a cyber protection team. Preforming evaluations 
+        on customer systems & networks. 
+          - Secure Configuration
+          - Information Assurance 
+          - Automation
+          - Security Analysis
 experiences:
     - role: Lead Developer
       time: 2015 - Present
