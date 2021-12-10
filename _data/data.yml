@@ -32,7 +32,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Cyber security profesional, non-traditional background, from helpdesk to 
+      Cyber security professional, non-traditional background, from helpdesk to 
       systems administration. Extreme dedication and passion driven for success. 
       Military trained in conducting full spectrum cyber operations. Knowledge of
       both sides of the sword.
@@ -43,24 +43,26 @@ education:
       university: Michigan Air National Guard
     - degree: Cyber Protection Team Core
       university: Defense Cyber Investigation Training
-    - degree: Cyber Protection Team Cpliance Readiness
+    - degree: Cyber Protection Team Compliance Readiness
       university: Defense Cyber Investigation Training
     - degree: Advanced Web Application Testing
       university: Derbycon IX 
+    - degree: SEC573: Automating Information Security with Python
+      university: SANS
 experiences:
     - role: Incident Response
       time: 2018 - Present
       company: Nationwide
       details: |
         Incident responders react to emergent cyber security events that 
-        pose an iminent concern to an organization. Preforming analysis
+        pose an imminent concern to an organization. Preforming analysis
         of suspected compromised systems. Evaluation of operational 
-        intelligence. Reviewing novel exploits and entereprise impact.
+        intelligence. Reviewing novel exploits and enterprise impact.
           - Forensic Analysis
           - Adversary Emulation
-          - Risk Managment
+          - Risk Management
           - Compliance
-          - Vulnerability Mgmt / Mitigation 
+          - Vulnerability Mgmt. / Mitigation 
           - Automation     
     - role: Senior Offensive Security Engineer
       time: 2016 - 2018
@@ -68,10 +70,10 @@ experiences:
       details: |
         Offensive Security conduct adversary emulation on a enterprise 
         scale. Engaging in phishing, vishing, employing threat actor
-        tactics techniques and proceedures. Developing a more resilliant 
+        tactics techniques and procedures. Developing a more resilient 
         organization. Finding the bad before the bad finds you.
-          - Exploitaion 
-          - Priviledge Escaltaion 
+          - Exploitation 
+          - Privilege Escalation 
           - Enumeration 
           - Automation
           - OWASP 
@@ -82,37 +84,28 @@ experiences:
       details: |
         Developed cache server pages, remediated records electronic 
         health records. Conducted traditional helpdesk operations, 
-        ticket queue, maintnance, network, device, and systems 
+        ticket queue, maintenance, network, device, and systems 
         configurations. Managed domain active directory.
+          - 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Contributions to the open-source community
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Prisma Cloud Compute (Twistlock) Splunk TA
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Python Twistlock logging to Splunk"
 
-      - title: Tempo
+      - title: Kansa
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "PowerShell Incident Response framework"
 
-      - title: Atom
+      - title: Jackit
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Ducky Script mouse jacking forcibly join wireless network"
 
 publications:
-    title: Publications
+    title: Presentations
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -137,23 +130,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PowerShell
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Python
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: JavaScript
+        level: 65%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Automation
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
