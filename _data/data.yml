@@ -94,38 +94,37 @@ projects:
       Contributions to the open-source community
     assignments:
       - title: Prisma Cloud Compute (Twistlock) Splunk TA
-        link: "#"
+        link: "#https://github.com/PaloAltoNetworks/prisma-cloud-compute-splunk"
         tagline: "Python Twistlock logging to Splunk"
 
       - title: Kansa
-        link: "#"
+        link: "#https://github.com/davehull/Kansa/pull/208"
         tagline: "PowerShell Incident Response framework"
-
-      - title: Jackit
-        link: "#"
-        tagline: "Ducky Script mouse jacking forcibly join wireless network"
+      
+      - title: DC614 DC-27-Badge
+        link: "#https://github.com/dc614/DC-27-Badge"
+        tagline: "Badge Designer"
 
 publications:
     title: Presentations
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List of presfentations I have hosted/co-hosted
+      for the community bettering myself and bettering 
+      the community.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Let's NMAP together
+        link: "#https://www.infosecsummit.com/ehome/2019cbusinfosec/agenda/"
+        authors: Andrew List, Mack Wilcox
+        conference: 2019 Central Ohio InfoSec Summit
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "PowerShell"
+        link: "#https://github.com/dc614/presentations/blob/master/2020-07-09_Powershell_Hackin_with_Quix/POWERSHELL_HACKIN_W__QUIX.pdf"
+        authors: Mack Wilcox
+        conference: "July 2020 DC614"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Well that escalated quickly
+        authors: Mack Wilcox
+        conference: "March 2020 DC614"
 
 skills:
     title: Skills &amp; Proficiency
