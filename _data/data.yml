@@ -49,8 +49,7 @@ education:
     - degree: Advanced Web Application Testing
       university: Derbycon IX 
     - degree: SEC573 Automating Information Security with Python
-      university: SANS
-      
+      university: SANS      
 experiences:
     - role: Incident Response
       time: 2018 - Present
