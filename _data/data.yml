@@ -36,6 +36,7 @@ career-profile:
       systems administration. Extreme dedication and passion driven for success. 
       Military trained in conducting full spectrum cyber operations. Knowledge of
       both sides of the sword.
+      
 education:
     - degree: Information Technology Specialist (25B)
       university: Fort Gordon Signal Center
@@ -49,6 +50,7 @@ education:
       university: Derbycon IX 
     - degree: SEC573: Automating Information Security with Python
       university: SANS
+      
 experiences:
     - role: Incident Response
       time: 2018 - Present
