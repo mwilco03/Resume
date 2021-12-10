@@ -94,11 +94,11 @@ projects:
       Contributions to the open-source community
     assignments:
       - title: Prisma Cloud Compute (Twistlock) Splunk TA
-        link: "#https://github.com/PaloAltoNetworks/prisma-cloud-compute-splunk"
+        link: "https://github.com/PaloAltoNetworks/prisma-cloud-compute-splunk"
         tagline: "Python Twistlock logging to Splunk"
 
       - title: Kansa
-        link: "#https://github.com/davehull/Kansa/pull/208"
+        link: "https://github.com/davehull/Kansa/pull/208"
         tagline: "PowerShell Incident Response framework"
       
       - title: DC614 DC-27-Badge
@@ -113,17 +113,18 @@ publications:
       the community.
     papers:
       - title: Let's NMAP together
-        link: "#https://www.infosecsummit.com/ehome/2019cbusinfosec/agenda/"
+        link: "https://www.infosecsummit.com/ehome/2019cbusinfosec/agenda/"
         authors: Andrew List, Mack Wilcox
         conference: 2019 Central Ohio InfoSec Summit
 
       - title: "PowerShell"
-        link: "#https://github.com/dc614/presentations/blob/master/2020-07-09_Powershell_Hackin_with_Quix/POWERSHELL_HACKIN_W__QUIX.pdf"
+        link: "https://github.com/dc614/presentations/blob/master/2020-07-09_Powershell_Hackin_with_Quix/POWERSHELL_HACKIN_W__QUIX.pdf"
         authors: Mack Wilcox
         conference: "July 2020 DC614"
 
       - title: Well that escalated quickly
         authors: Mack Wilcox
+        link: "#"
         conference: "March 2020 DC614"
 
 skills:
