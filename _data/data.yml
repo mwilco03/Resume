@@ -15,9 +15,9 @@ sidebar:
     linkedin: wilcom03
     github: mwilco03
     
-    languages:
-      - idiom: English
-        level: Native
+    noteable:
+      - Clearance: TS
+        
 
     interests:
       - item: Hacking
@@ -126,6 +126,11 @@ publications:
         authors: Mack Wilcox
         link: "#"
         conference: "March 2020 DC614"
+        
+      - title: How to track friends and meet interesting people!
+        authors: Mack Wilcox
+        link: "https://2022.hthackers.com/#/agenda?day=4&lang=en"
+        conference: "Hackers Teaching Hackers 2022"
 
 skills:
     title: Skills &amp; Proficiency
