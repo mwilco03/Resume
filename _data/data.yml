@@ -15,10 +15,6 @@ sidebar:
     linkedin: wilcom03
     github: mwilco03
     
-    noteable:
-      - Clearance: TS
-        
-
     interests:
       - item: Hacking
         link:
@@ -27,6 +23,9 @@ sidebar:
         link:
 
       - item: Engineering
+        link:
+        
+      - item: TS Cleared
         link:
 
 career-profile:
