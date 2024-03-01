@@ -50,8 +50,23 @@ education:
     - degree: SEC573 Automating Information Security with Python
       university: SANS      
 experiences:
+    - role: Lead Incident Responder
+      time: 2023 - Present
+      company: Sprinklr
+      details: |
+        As a Lead Incident Responder, led a team in identifying, analyzing, 
+        and mitigating cyber threats in real-time. Developed and refined 
+        incident response protocols to ensure rapid and effective action. 
+        Worked closely with cross-functional teams to improve security 
+        posture and resilience against attacks.
+          - Threat Intelligence Analysis
+          - Incident Response Planning
+          - Team Leadership
+          - Security Automation
+          - Stakeholder Communication
+          - Continuous Improvement Initiatives
     - role: Incident Response
-      time: 2020 - Present
+      time: 2020 - 2023
       company: Nationwide
       details: |
         Incident responders react to emergent cyber security events that 
@@ -86,7 +101,7 @@ experiences:
         health records. Conducted traditional helpdesk operations, 
         ticket queue, maintenance, network, device, and systems 
         configurations. Managed domain active directory.
-          - 
+        
 projects:
     title: Projects
     intro: >
@@ -101,8 +116,16 @@ projects:
         tagline: "PowerShell Incident Response framework"
       
       - title: DC614 DC-27-Badge
-        link: "#https://github.com/dc614/DC-27-Badge"
+        link: "https://github.com/dc614/DC-27-Badge"
         tagline: "Badge Designer"
+
+      - title: FalconPy 
+        link: "https://github.com/BloodHoundAD/SharpHound"
+        tagline: "The CrowdStrike Falcon SDK for Python"
+
+      - title: SharpHound 
+        link: "https://github.com/CrowdStrike/falconpy"
+        tagline: "C# Data Collector for BloodHound"
 
 publications:
     title: Presentations
