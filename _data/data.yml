@@ -104,11 +104,9 @@ experiences:
         included managing ticket queues, maintaining networks and devices,
         and configuring systems. I also oversaw domain Active Directory to
         ensure seamless user management.
-
-education:
-    - role: 1B4X1 Cyberwarfare Operator
+    - role: 1B4X1 Cyberwarfare Operator 
       time: 2016 - Current
-      company: Michigan Air National Guard
+      company: Michigan Air National Guard (Military)
       details: |
         I designed and implemented enterprise security strategies for Department of Defense (DoD)
         networks, ensuring protection across Windows, Linux, and cloud-based environments.
@@ -128,9 +126,9 @@ education:
           - Custom Tool Development & Automation
           - Cyber Vulnerability Assessment/Hunt (CVA/H)
           - Python / PowerShell / Bash Scripting
-
     - role: 25B Information Technology Specialist
       time: 2007 - 2016
+      company: Michigan Army National Guard (Military)
       details: |
         As a 25B IT Specialist, I provided computer support activities to ensure reliable
         and secure connectivity across various Army systems. I frequently performed
