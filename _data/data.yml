@@ -38,7 +38,9 @@ career-profile:
       security postures against modern threats.
       
 education:
-    - degree: Information Technology Specialist (25B)
+    - degree: |
+      US Army 
+      Information Technology Specialist (25B) Course
       university: Fort Gordon Signal Center
     - degree: Cyber Warfare Operator (1B4x1)
       university: Michigan Air National Guard
@@ -102,7 +104,53 @@ experiences:
         health records. Conducted traditional helpdesk operations, 
         ticket queue, maintenance, network, device, and systems 
         configurations. Managed domain active directory.
-        
+
+education:
+    - role: 1B4X1 Cyberwarfare Operator
+      time: 2016 - Current
+      company: Michigan Air National Guard
+      details: |
+        1B4 Cyber Warfare Operator designs and implements enterprise 
+        security strategies for Department of Defense (DoD) networks, 
+        ensuring protection across Windows, Linux, and cloud-based environments. 
+        Conducted advanced threat modeling, vulnerability assessments, and 
+        risk mitigation planning using the Cyber Vulnerability Assessment/Hunt 
+        (CVA/H) Weapons System. Leads digital forensics and incident 
+        response (DFIR) operations, drawing on offensive expertise in to identify 
+        assess, and plan remediations for threats. Collaborated with senior leadership, 
+        recomending modifications during periods of heightened vulnerability, 
+        ensuring continuity of operations. I've also developed custom tooling 
+        to address unique security challenges and automated responses, 
+        as well as providing supporting training to fellow Airmen for such.
+        I have organizied, participated, and conducted cybersecurity training exercises,
+        with partner nations strengthening defense partnerships and collective readiness.
+          - Offensive & Defensive Cyber Operations
+          - Digital Forensics 
+          - Threat Hunting 
+          - Malware Analysis 
+          - Custom Tool Development & Automation
+          - Cyber Vulnerability Assessment/Hunt (CVA/H)
+          - Python / PowerShell / Bash Scripting
+    - role: 25B Information Technology Specialist
+      time: 2007 - 2016
+      details: |
+         25B IT Specialist conducts computer suppourt activities ensuring consistent 
+         and secure connectivity across various Army systems. Frequently performed
+         remote administration, updating, software patches, configuring printers,
+         and troubleshooting all user issues. Along with developing automated 
+         configurations, making it easier and faster to onboard new devices,
+         solve issues that arose, while maintaining security standards. 
+         Managing resources so units could focus on their missions without technical
+         roadblocks. In addition, I supported radio operations in the field, 
+         ensuring clear communication channels for critical deployments. 
+          - Remote Administration
+          - Wi-Fi Configuration
+          - Troubleshooting
+          - Radio Operations & Maintenance
+          - Software & Hardware Support
+          - Network Monitoring
+          - User Training
+          
 projects:
     title: Projects
     intro: >
