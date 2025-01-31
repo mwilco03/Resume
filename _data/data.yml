@@ -35,19 +35,17 @@ career-profile:
       security postures against modern threats.
       
 education:
-    - degree: |
-        US Army 
-        Information Technology Specialist (25B) Course
-      university: Fort Gordon Signal Center
-    - degree: Cyber Warfare Operator (1B4x1)
+    - degree: Information Technology Specialist (25B) Course
+      university: Fort Gordon Signal Center of Excellence
+    - degree: Cyber Warfare Operator (1B4x1) 
       university: Michigan Air National Guard
     - degree: Cyber Protection Team Core
-      university: Defense Cyber Investigation Training
+      university: DC3 Cyber Training Academy (DICTA)
     - degree: Cyber Protection Team Compliance Readiness
-      university: Defense Cyber Investigation Training
+      university: DC3 Cyber Training Academy (DICTA)
     - degree: Advanced Web Application Testing
       university: Derbycon IX
-    - degree: SEC573 Automating Information Security with Python
+    - degree: SEC573 Automating Information Security with Python Course
       university: SANS
 
 experiences:
@@ -107,7 +105,7 @@ experiences:
         and configuring systems. I also oversaw domain Active Directory to
         ensure seamless user management.
 
-military-experience:
+education:
     - role: 1B4X1 Cyberwarfare Operator
       time: 2016 - Current
       company: Michigan Air National Guard
