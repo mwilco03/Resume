@@ -1,4 +1,4 @@
-#
+# 1/31/2025
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 sidebar:
@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: Mack Wilcox
-    tagline: Cyber Security Professional 
+    tagline: Cyber Security Professional
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,13 +18,10 @@ sidebar:
     interests:
       - item: Hacking
         link:
-
       - item: Electronics
         link:
-
       - item: Engineering
         link:
-        
       - item: TS Cleared
         link:
 
@@ -39,8 +36,8 @@ career-profile:
       
 education:
     - degree: |
-      US Army 
-      Information Technology Specialist (25B) Course
+        US Army 
+        Information Technology Specialist (25B) Course
       university: Fort Gordon Signal Center
     - degree: Cyber Warfare Operator (1B4x1)
       university: Michigan Air National Guard
@@ -51,79 +48,81 @@ education:
     - degree: Advanced Web Application Testing
       university: Derbycon IX 
     - degree: SEC573 Automating Information Security with Python
-      university: SANS      
+      university: SANS
+
 experiences:
     - role: Lead Incident Responder
       time: 2023 - Present
       company: Sprinklr
       details: |
-        As a Lead Incident Responder, led a team in identifying, analyzing, 
-        and mitigating cyber threats in real-time. Developed and refined 
-        incident response protocols to ensure rapid and effective action. 
-        Worked closely with cross-functional teams to improve security 
-        posture and resilience against attacks.
+        As a Lead Incident Responder, I led a team in identifying, analyzing,
+        and mitigating cyber threats in real time. I developed and refined
+        incident response protocols to ensure rapid and effective action.
+        I worked closely with cross-functional teams to improve our security
+        posture and strengthen resilience against attacks.
           - Threat Intelligence Analysis
           - Incident Response Planning
           - Team Leadership
           - Security Automation
           - Stakeholder Communication
           - Continuous Improvement Initiatives
+
     - role: Incident Response
       time: 2020 - 2023
       company: Nationwide
       details: |
-        Incident responders react to emergent cyber security events that 
-        pose an imminent concern to an organization. Preforming analysis
-        of suspected compromised systems. Evaluation of operational 
-        intelligence. Reviewing novel exploits and enterprise impact.
+        Incident responders react to emergent cybersecurity events that
+        pose an imminent concern to an organization. I performed analysis
+        of potentially compromised systems, evaluated operational
+        intelligence, and reviewed novel exploits for enterprise-wide impact.
           - Forensic Analysis
           - Adversary Emulation
           - Risk Management
           - Compliance
-          - Vulnerability Mgmt. / Mitigation 
+          - Vulnerability Management / Mitigation
           - Automation     
+
     - role: Senior Offensive Security Engineer
       time: 2018 - 2020
       company: The Wendy's Company
       details: |
-        Offensive Security conduct adversary emulation on a enterprise 
-        scale. Engaging in phishing, vishing, employing threat actor
-        tactics techniques and procedures. Developing a more resilient 
-        organization. Finding the bad before the bad finds you.
+        I conducted adversary emulation at an enterprise scale, engaging in
+        phishing, vishing, and employing various threat actor tactics, techniques,
+        and procedures. By discovering vulnerabilities before they could be
+        exploited, I helped build a more resilient organization.
           - Exploitation 
           - Privilege Escalation 
           - Enumeration 
           - Automation
           - OWASP 
           - Secure Development
+
     - role: Systems Administrator
       time: 2013 - 2018
       company: Saginaw Veterans Affairs Medical Center
       details: |
-        Developed cache server pages, remediated records electronic 
-        health records. Conducted traditional helpdesk operations, 
-        ticket queue, maintenance, network, device, and systems 
-        configurations. Managed domain active directory.
+        I developed cache server pages, remediated electronic health records,
+        and performed traditional helpdesk operations. My responsibilities
+        included managing ticket queues, maintaining networks and devices,
+        and configuring systems. I also oversaw domain Active Directory to
+        ensure seamless user management.
 
-military experiences:
+education:
     - role: 1B4X1 Cyberwarfare Operator
       time: 2016 - Current
       company: Michigan Air National Guard
       details: |
-        1B4 Cyber Warfare Operator designs and implements enterprise 
-        security strategies for Department of Defense (DoD) networks, 
-        ensuring protection across Windows, Linux, and cloud-based environments. 
-        Conducted advanced threat modeling, vulnerability assessments, and 
-        risk mitigation planning using the Cyber Vulnerability Assessment/Hunt 
-        (CVA/H) Weapons System. Leads digital forensics and incident 
-        response (DFIR) operations, drawing on offensive expertise in to identify 
-        assess, and plan remediations for threats. Collaborated with senior leadership, 
-        recomending modifications during periods of heightened vulnerability, 
-        ensuring continuity of operations. I've also developed custom tooling 
-        to address unique security challenges and automated responses, 
-        as well as providing supporting training to fellow Airmen for such.
-        I have organizied, participated, and conducted cybersecurity training exercises,
-        with partner nations strengthening defense partnerships and collective readiness.
+        I designed and implemented enterprise security strategies for Department of Defense (DoD)
+        networks, ensuring protection across Windows, Linux, and cloud-based environments.
+        I conducted advanced threat modeling, vulnerability assessments, and risk mitigation
+        planning using the Cyber Vulnerability Assessment/Hunt (CVA/H) Weapons System.
+        I led digital forensics and incident response (DFIR) operations, drawing on offensive
+        expertise to identify, assess, and plan threat remediation. I collaborated with senior
+        leadership, recommending strategic changes during heightened vulnerability periods
+        to maintain operational continuity. I also developed custom tooling to address unique
+        security challenges, automated key responses, and provided training to fellow Airmen.
+        Additionally, I organized and participated in cybersecurity training exercises with
+        partner nations, strengthening defense partnerships and collective readiness.
           - Offensive & Defensive Cyber Operations
           - Digital Forensics 
           - Threat Hunting 
@@ -131,18 +130,18 @@ military experiences:
           - Custom Tool Development & Automation
           - Cyber Vulnerability Assessment/Hunt (CVA/H)
           - Python / PowerShell / Bash Scripting
+
     - role: 25B Information Technology Specialist
       time: 2007 - 2016
       details: |
-         25B IT Specialist conducts computer suppourt activities ensuring consistent 
-         and secure connectivity across various Army systems. Frequently performed
-         remote administration, updating, software patches, configuring printers,
-         and troubleshooting all user issues. Along with developing automated 
-         configurations, making it easier and faster to onboard new devices,
-         solve issues that arose, while maintaining security standards. 
-         Managing resources so units could focus on their missions without technical
-         roadblocks. In addition, I supported radio operations in the field, 
-         ensuring clear communication channels for critical deployments. 
+        As a 25B IT Specialist, I provided computer support activities to ensure reliable
+        and secure connectivity across various Army systems. I frequently performed
+        remote administration, installed software updates, and configured printers,
+        while troubleshooting user issues. I developed automated configurations to speed
+        up device onboarding and maintain strict security standards. In addition, I
+        supported radio operations in the field, ensuring clear communication channels
+        for critical deployments. My efforts helped units stay mission-focused without
+        unnecessary technical roadblocks.
           - Remote Administration
           - Wi-Fi Configuration
           - Troubleshooting
@@ -169,26 +168,26 @@ projects:
         tagline: "Badge Designer"
 
       - title: FalconPy 
-        link: "https://github.com/BloodHoundAD/SharpHound"
+        link: "https://github.com/CrowdStrike/falconpy"
         tagline: "The CrowdStrike Falcon SDK for Python"
 
       - title: SharpHound 
-        link: "https://github.com/CrowdStrike/falconpy"
+        link: "https://github.com/BloodHoundAD/SharpHound"
         tagline: "C# Data Collector for BloodHound"
 
 publications:
     title: Presentations
     intro: |
-      List of presfentations I have hosted/co-hosted
-      for the community bettering myself and bettering 
-      the community.
+      List of presentations I have hosted or co-hosted,
+      aimed at furthering both my knowledge and the
+      community’s expertise.
     papers:
       - title: Let's NMAP together
         link: "https://www.infosecsummit.com/ehome/2019cbusinfosec/agenda/"
         authors: Andrew List, Mack Wilcox
         conference: 2019 Central Ohio InfoSec Summit
 
-      - title: "PowerShell"
+      - title: PowerShell
         link: "https://github.com/dc614/presentations/blob/master/2020-07-09_Powershell_Hackin_with_Quix/POWERSHELL_HACKIN_W__QUIX.pdf"
         authors: Mack Wilcox
         conference: "July 2020 DC614"
@@ -209,13 +208,10 @@ skills:
     toolset:
       - name: PowerShell
         level: 98%
-
       - name: Python
         level: 98%
-
       - name: JavaScript
         level: 65%
-
       - name: Automation
         level: 85%
 
