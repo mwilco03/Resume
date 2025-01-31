@@ -78,7 +78,7 @@ experiences:
           - Risk Management
           - Compliance
           - Vulnerability Management / Mitigation
-          - Automation     
+          - Automation
 
     - role: Senior Offensive Security Engineer
       time: 2018 - 2020
@@ -104,7 +104,8 @@ experiences:
         included managing ticket queues, maintaining networks and devices,
         and configuring systems. I also oversaw domain Active Directory to
         ensure seamless user management.
-    - role: 1B4X1 Cyberwarfare Operator 
+
+    - role: 1B4X1 Cyberwarfare Operator
       time: 2016 - Current
       company: Michigan Air National Guard (Military)
       details: |
@@ -126,6 +127,7 @@ experiences:
           - Custom Tool Development & Automation
           - Cyber Vulnerability Assessment/Hunt (CVA/H)
           - Python / PowerShell / Bash Scripting
+
     - role: 25B Information Technology Specialist
       time: 2007 - 2016
       company: Michigan Army National Guard (Military)
@@ -145,7 +147,7 @@ experiences:
           - Software & Hardware Support
           - Network Monitoring
           - User Training
-          
+ 
 projects:
     title: Projects
     intro: >
