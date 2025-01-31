@@ -1,4 +1,4 @@
-# 1/31/2025
+#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 sidebar:
@@ -8,7 +8,7 @@ sidebar:
     # Profile information
     name: Mack Wilcox
     tagline: Cyber Security Professional
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mwilco03@gmail.com
@@ -46,7 +46,7 @@ education:
     - degree: Cyber Protection Team Compliance Readiness
       university: Defense Cyber Investigation Training
     - degree: Advanced Web Application Testing
-      university: Derbycon IX 
+      university: Derbycon IX
     - degree: SEC573 Automating Information Security with Python
       university: SANS
 
@@ -71,7 +71,7 @@ experiences:
       time: 2020 - 2023
       company: Nationwide
       details: |
-        Incident responders react to emergent cybersecurity events that
+        Incident responders address emergent cybersecurity events that
         pose an imminent concern to an organization. I performed analysis
         of potentially compromised systems, evaluated operational
         intelligence, and reviewed novel exploits for enterprise-wide impact.
@@ -90,11 +90,11 @@ experiences:
         phishing, vishing, and employing various threat actor tactics, techniques,
         and procedures. By discovering vulnerabilities before they could be
         exploited, I helped build a more resilient organization.
-          - Exploitation 
-          - Privilege Escalation 
-          - Enumeration 
+          - Exploitation
+          - Privilege Escalation
+          - Enumeration
           - Automation
-          - OWASP 
+          - OWASP
           - Secure Development
 
     - role: Systems Administrator
@@ -107,7 +107,7 @@ experiences:
         and configuring systems. I also oversaw domain Active Directory to
         ensure seamless user management.
 
-education:
+military-experience:
     - role: 1B4X1 Cyberwarfare Operator
       time: 2016 - Current
       company: Michigan Air National Guard
@@ -124,9 +124,9 @@ education:
         Additionally, I organized and participated in cybersecurity training exercises with
         partner nations, strengthening defense partnerships and collective readiness.
           - Offensive & Defensive Cyber Operations
-          - Digital Forensics 
-          - Threat Hunting 
-          - Malware Analysis 
+          - Digital Forensics
+          - Threat Hunting
+          - Malware Analysis
           - Custom Tool Development & Automation
           - Cyber Vulnerability Assessment/Hunt (CVA/H)
           - Python / PowerShell / Bash Scripting
@@ -179,7 +179,7 @@ publications:
     title: Presentations
     intro: |
       List of presentations I have hosted or co-hosted,
-      aimed at furthering both my knowledge and the
+      aimed at advancing both my knowledge and the
       community’s expertise.
     papers:
       - title: Let's NMAP together
