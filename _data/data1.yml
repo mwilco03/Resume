@@ -1,0 +1,171 @@
+sidebar:
+  about: False
+  education: True
+
+  name: Mack Wilcox
+  tagline: Cybersecurity Professional
+  avatar: profile.png
+
+  email: mwilco03@gmail.com
+  linkedin: wilcom03
+  github: mwilco03
+
+  interests:
+    - item: Offensive Security
+      link:
+    - item: Electronics
+      link:
+    - item: Engineering
+      link:
+    - item: TS Clearance
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Accomplished cybersecurity leader and military veteran specializing in offensive security, incident response, and system administration. Adept at leading teams to proactively identify, assess, and mitigate sophisticated cyber threats. Expert in developing threat intelligence strategies, automating security solutions, and enhancing organizational resilience. Passionate about continuous improvement and committed to safeguarding infrastructure against emerging threats.
+
+education:
+  - degree: Information Technology Specialist (25B)
+    university: Fort Gordon Signal Center of Excellence
+  - degree: Cyber Warfare Operator (1B4X1)
+    university: Michigan Air National Guard
+  - degree: Cyber Protection Team Core
+    university: DC3 Cyber Training Academy (DICTA)
+  - degree: Cyber Protection Team Compliance Readiness
+    university: DC3 Cyber Training Academy (DICTA)
+  - degree: Advanced Web Application Testing
+    university: DerbyCon IX
+  - degree: Automating Information Security with Python (SEC573)
+    university: SANS Institute
+
+experiences:
+  - role: Lead Incident Responder
+    time: 2023 to Present
+    company: Sprinklr
+    details: |
+      Directs cybersecurity operations, swiftly identifying and neutralizing cyber threats. Leads incident response planning, executes threat intelligence analyses, and coordinates with cross functional teams to strengthen security posture through strategic automation.
+      • Threat Intelligence
+      • Incident Response Planning
+      • Leadership and Communication
+      • Security Automation
+      • Continuous Improvement
+
+  - role: Incident Response
+    time: 2020 to 2023
+    company: Nationwide
+    details: |
+      Responded to critical cybersecurity incidents, performing detailed forensic analyses and risk assessments. Developed strategic solutions and automated mitigation strategies, ensuring compliance and organizational security.
+      • Forensic Investigation
+      • Adversary Emulation
+      • Risk and Vulnerability Management
+      • Compliance Auditing
+      • Security Automation
+
+  - role: Senior Offensive Security Engineer
+    time: 2018 to 2020
+    company: The Wendy's Company
+    details: |
+      Executed comprehensive adversary simulations, uncovering vulnerabilities through phishing, vishing, and advanced exploitation techniques. Improved organizational resilience by proactively identifying and mitigating threats.
+      • Vulnerability Exploitation
+      • Privilege Escalation
+      • Web Application Security (OWASP)
+      • Secure Coding Practices
+      • Security Automation
+
+  - role: Systems Administrator
+    time: 2013 to 2018
+    company: Saginaw Veterans Affairs Medical Center
+    details: |
+      Managed critical IT infrastructure, performed system maintenance, and resolved complex technical issues. Administered Active Directory and supported user onboarding, ensuring efficient and secure IT operations.
+      • Network and Systems Maintenance
+      • Active Directory Administration
+      • User Support and Ticket Management
+      • Configuration Management
+      • IT Infrastructure Automation
+
+  - role: Cyberwarfare Operator (1B4X1)
+    time: 2016 to Present
+    company: Michigan Air National Guard
+    details: |
+      Leads cybersecurity operations for DoD networks, executing offensive and defensive cyber strategies. Conducts threat modeling, vulnerability assessments, and advanced digital forensics. Develops custom automation tools and provides training to enhance team effectiveness.
+      • Offensive and Defensive Cyber Operations
+      • Threat Hunting and Malware Analysis
+      • Custom Tool Development
+      • Python, PowerShell, Bash Scripting
+      • International Cybersecurity Collaboration
+
+  - role: Information Technology Specialist (25B)
+    time: 2007 to 2016
+    company: Michigan Army National Guard
+    details: |
+      Delivered comprehensive IT support, performing remote system administration, network monitoring, and troubleshooting. Enhanced efficiency through automation and supported field operations ensuring reliable communication.
+      • Remote Administration
+      • Network Configuration
+      • Radio Operations Support
+      • Software and Hardware Maintenance
+      • Technical Training and Support
+
+projects:
+  title: Open Source Projects
+  intro: Contributions to the cybersecurity community through impactful open source initiatives.
+  assignments:
+    - title: Prisma Cloud Compute Splunk TA
+      link: "https://github.com/PaloAltoNetworks/prisma-cloud-compute-splunk"
+      tagline: "Enhanced logging integration between Prisma Cloud and Splunk"
+
+    - title: Kansa
+      link: "https://github.com/davehull/Kansa/pull/208"
+      tagline: "PowerShell driven Incident Response automation"
+
+    - title: DC614 DC 27 Badge
+      link: "https://github.com/dc614/DC-27-Badge"
+      tagline: "Custom badge design and development"
+
+    - title: FalconPy SDK
+      link: "https://github.com/CrowdStrike/falconpy"
+      tagline: "Python SDK for CrowdStrike Falcon"
+
+    - title: SharpHound
+      link: "https://github.com/BloodHoundAD/SharpHound"
+      tagline: "BloodHound C# Data Collection Tool"
+
+publications:
+  title: Presentations and Talks
+  intro: "Engaging cybersecurity presentations and training sessions delivered at notable conferences."
+  papers:
+    - title: Let's NMAP Together
+      link: "https://www.infosecsummit.com/ehome/2019cbusinfosec/agenda/"
+      authors: Andrew List, Mack Wilcox
+      conference: Central Ohio InfoSec Summit (2019)
+
+    - title: PowerShell Hackin' with Quix
+      link: "https://github.com/dc614/presentations/blob/master/2020-07-09_Powershell_Hackin_with_Quix/POWERSHELL_HACKIN_W__QUIX.pdf"
+      authors: Mack Wilcox
+      conference: DC614 Meetup (July 2020)
+
+    - title: Well, That Escalated Quickly
+      link: "#"
+      authors: Mack Wilcox
+      conference: DC614 Meetup (March 2020)
+
+    - title: How to Track Friends and Meet Interesting People
+      link: "https://2022.hthackers.com/#/agenda?day=4&lang=en"
+      authors: Mack Wilcox
+      conference: Hackers Teaching Hackers (2022)
+
+skills:
+  title: Technical Skills
+  toolset:
+    - name: PowerShell
+      level: 95%
+    - name: Python
+      level: 95%
+    - name: JavaScript
+      level: 70%
+    - name: Automation
+      level: 90%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by
+  <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
