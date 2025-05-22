@@ -1,0 +1,166 @@
+sidebar:
+  about: False
+  education: True
+
+  name: Mack Wilcox
+  tagline: Cybersecurity Professional
+  avatar: profile.png
+
+  email: mwilco03@gmail.com
+  linkedin: wilcom03
+  github: mwilco03
+
+  interests:
+    - item: Offensive Security
+      link:
+    - item: Electronics
+      link:
+    - item: Engineering
+      link:
+    - item: TS Clearance
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Accomplished cybersecurity leader and military veteran specializing in incident response, detection engineering, offensive security assessments, and vulnerability management. Adept at implementing robust incident response plans, leveraging automation for security enhancement, and proactively mitigating cyber threats. Demonstrates a deep commitment to continuously refining and advancing organizational security posture.
+
+education:
+  - degree: Information Technology Specialist (25B)
+    university: Fort Gordon Signal Center of Excellence
+  - degree: Cyber Warfare Operator (1B4X1)
+    university: Michigan Air National Guard
+  - degree: Cyber Protection Team Core
+    university: DC3 Cyber Training Academy (DICTA)
+  - degree: Cyber Protection Team Compliance Readiness
+    university: DC3 Cyber Training Academy (DICTA)
+  - degree: Advanced Web Application Testing
+    university: DerbyCon IX
+  - degree: Automating Information Security with Python (SEC573)
+    university: SANS Institute
+
+experiences:
+  - role: Lead Incident Responder
+    time: 2023 to Present
+    company: Sprinklr
+    details: |
+      Directs cybersecurity operations focusing on incident response, detection engineering, and threat intelligence. Implements comprehensive incident response strategies, enhances threat detection capabilities, and automates security processes for proactive defense.
+      • Detection Engineering
+      • Incident Response Implementation
+      • Threat Intelligence
+      • Security Automation
+      • Proactive Threat Mitigation
+
+  - role: Incident Response
+    time: 2020 to 2023
+    company: Nationwide
+    details: |
+      Managed security incidents, led compliance audits, and optimized threat detection and alerting strategies. Conducted offensive security assessments and implemented automated vulnerability management.
+      • Compliance Auditing
+      • Vulnerability Management
+      • Offensive Security Assessments
+      • Security Alert Optimization
+      • Automation and Scripting
+
+  - role: Senior Offensive Security Engineer
+    time: 2018 to 2020
+    company: The Wendy's Company
+    details: |
+      Conducted penetration tests and vulnerability assessments, significantly improving application and network security through proactive offensive methodologies and automation.
+      • Web Application Security
+      • Privilege Escalation
+      • Secure Development
+      • Security Automation
+
+  - role: Systems Administrator
+    time: 2013 to 2018
+    company: Saginaw Veterans Affairs Medical Center
+    details: |
+      Managed and secured IT infrastructure through effective administration of networks, Active Directory, and automation of critical security tasks.
+      • Network Administration
+      • Active Directory Management
+      • Security Automation
+      • Infrastructure Security
+
+  - role: Cyberwarfare Operator (1B4X1)
+    time: 2016 to Present
+    company: Michigan Air National Guard
+    details: |
+      Designs and implements cybersecurity solutions for DoD networks, executing firewall strategies, cloud infrastructure management, and threat hunting initiatives. Conducts international cybersecurity training exercises and advanced vulnerability assessments.
+      • Firewall Architecture
+      • Cloud Security
+      • Infrastructure as Code
+      • Threat Hunting
+      • International Collaboration
+
+  - role: Information Technology Specialist (25B)
+    time: 2007 to 2016
+    company: Michigan Army National Guard
+    details: |
+      Provided comprehensive IT support, including remote administration, network management, and automation of security processes. Enhanced communication reliability and technical operational effectiveness.
+      • Remote Support
+      • Network Management
+      • Automation
+      • Technical Training
+
+projects:
+  title: Open Source Projects
+  intro: Contributions to the cybersecurity community through open source initiatives.
+  assignments:
+    - title: Prisma Cloud Compute Splunk TA
+      link: "https://github.com/PaloAltoNetworks/prisma-cloud-compute-splunk"
+      tagline: "Cloud logging integration with Splunk"
+
+    - title: Kansa
+      link: "https://github.com/davehull/Kansa/pull/208"
+      tagline: "PowerShell-based Incident Response"
+
+    - title: DC614 DC 27 Badge
+      link: "https://github.com/dc614/DC-27-Badge"
+      tagline: "Security badge development"
+
+    - title: FalconPy SDK
+      link: "https://github.com/CrowdStrike/falconpy"
+      tagline: "CrowdStrike Python SDK"
+
+    - title: SharpHound
+      link: "https://github.com/BloodHoundAD/SharpHound"
+      tagline: "Network vulnerability assessment tool"
+
+publications:
+  title: Presentations and Talks
+  intro: Delivered cybersecurity insights at industry events.
+  papers:
+    - title: Let's NMAP Together
+      link: "https://www.infosecsummit.com/ehome/2019cbusinfosec/agenda/"
+      authors: Andrew List, Mack Wilcox
+      conference: Central Ohio InfoSec Summit (2019)
+
+    - title: PowerShell Hackin' with Quix
+      link: "https://github.com/dc614/presentations/blob/master/2020-07-09_Powershell_Hackin_with_Quix/POWERSHELL_HACKIN_W__QUIX.pdf"
+      authors: Mack Wilcox
+      conference: DC614 Meetup (July 2020)
+
+skills:
+  title: Technical Skills
+  toolset:
+    - name: PowerShell
+      level: 95%
+    - name: Python
+      level: 95%
+    - name: IaC (Terraform, CloudFormation)
+      level: 90%
+    - name: Cloud Security (AWS, Azure)
+      level: 90%
+    - name: Detection Engineering
+      level: 90%
+    - name: Penetration Testing (Burp, Metasploit, ZAP, Nmap)
+      level: 95%
+    - name: Compliance (PCI)
+      level: 90%
+    - name: SIEM, EDR, SOAR
+      level: 90%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by
+  <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
