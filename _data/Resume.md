@@ -26,7 +26,7 @@ Accomplished cybersecurity leader and military veteran specializing in incident 
 **Automating Information Security with Python (SEC573)**, SANS Institute
 **Cyber Defense Analyst - Basic (CDA-B)**, Hurlburt Field, Florida (current)
 **Cyber Vulnerability Assessment Hunt (CVAH)**, Hurlburt Field, Florida (current)
-**Advanced Incident Response, Threat Hunting, and Digital Forensics (FOR508),** SANS Institute, (current)
+**Advanced Incident Response, Threat Hunting, and Digital Forensics (FOR508)**, SANS Institute, Hurlburt Field, Florida (current)
 
 ---
 
@@ -34,7 +34,7 @@ Accomplished cybersecurity leader and military veteran specializing in incident 
 
 ### Lead Incident Responder
 
-Sprinklr (2023 to Present)
+**Sprinklr** (2023 to Present)
 Directs cybersecurity operations focused on incident response, detection engineering, and threat intelligence. Develops strong response plans and automates security measures. Continuously enhances detection and mitigation capabilities.
 
 * Incident response
@@ -43,7 +43,7 @@ Directs cybersecurity operations focused on incident response, detection enginee
 
 ### Incident Responder
 
-Nationwide (2020 to 2023)
+**Nationwide** (2020 to 2023)
 Managed security incidents, optimized detection strategies, and implemented automated solutions. Enhanced endpoint security solutions and conducted thorough compliance audits. Identified and secured physical asset locations through improved cybersecurity infrastructure.
 
 * Threat detection optimization
@@ -52,7 +52,7 @@ Managed security incidents, optimized detection strategies, and implemented auto
 
 ### Senior Offensive Security Engineer
 
-The Wendy's Company (2018 to 2020)
+**The Wendy's Company** (2018 to 2020)
 Conducted comprehensive security assessments including penetration tests and firewall evaluations. Ensured compliance with PCI DSS and improved security posture through regular assessments. Performed full security evaluations across multiple platforms.
 
 * Comprehensive penetration testing
@@ -61,7 +61,7 @@ Conducted comprehensive security assessments including penetration tests and fir
 
 ### Systems Administrator
 
-Saginaw Veterans Affairs Medical Center (2013 to 2018)
+**Saginaw Veterans Affairs Medical Center** (2013 to 2018)
 Provided system administration support including managing networks and Active Directory. Automated electronic health records (EHR) systems and routine infrastructure tasks. Improved operational effectiveness through systematic automation.
 
 * Network administration
@@ -70,7 +70,7 @@ Provided system administration support including managing networks and Active Di
 
 ### Cyberwarfare Operator (1B4X1) (part time)
 
-Michigan Air National Guard (2016 to Present)
+**Michigan Air National Guard** (2016 to Present)
 Supports defensive cyberspace operations by planning and executing operations to protect national networks and systems. Conducts vulnerability assessments and participates in cyberspace training events. Applies cyber tactics and procedures to counter threats and support mission objectives.
 
 * Defensive cyberspace operations
@@ -79,7 +79,7 @@ Supports defensive cyberspace operations by planning and executing operations to
 
 ### Information Technology Specialist (25B) (part time)
 
-Michigan Army National Guard (2007 to 2016)
+**Michigan Army National Guard** (2007 to 2016)
 Provided general IT support including network management and routine technical support. Automated various system administration tasks to improve reliability. Regularly trained and supported staff to ensure effective communication and system availability.
 
 * IT system administration
@@ -113,4 +113,4 @@ PowerShell, Python, Terraform, CloudFormation, AWS, Azure, Detection Engineering
 
 ---
 
-Interests: Offensive Security, Electronics, Engineering
+**Interests:** Offensive Security, Electronics, Engineering, TS Clearance
