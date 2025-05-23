@@ -19,13 +19,21 @@ Accomplished cybersecurity leader and military veteran specializing in incident 
 ## Education
 
 **Information Technology Specialist (25B)**, Fort Gordon Signal Center of Excellence
+
 **Cyber Warfare Operator (1B4X1)**, Keesler Air Force Base, Mississippi
+
 **Cyber Protection Team Core**, DC3 Cyber Training Academy (DICTA)
+
 **Cyber Protection Team Compliance Readiness**, DC3 Cyber Training Academy (DICTA)
+
 **Advanced Web Application Testing**, DerbyCon IX
+
 **Automating Information Security with Python (SEC573)**, SANS Institute
+
 **Cyber Defense Analyst - Basic (CDA-B)**, Hurlburt Field, Florida (current)
+
 **Cyber Vulnerability Assessment Hunt (CVAH)**, Hurlburt Field, Florida (current)
+
 **Advanced Incident Response, Threat Hunting, and Digital Forensics (FOR508)**, SANS Institute, Hurlburt Field, Florida (current)
 
 ---
@@ -53,7 +61,9 @@ Managed security incidents, optimized detection strategies, and implemented auto
 ### Senior Offensive Security Engineer
 
 **The Wendy's Company** (2018 to 2020)
-Conducted comprehensive security assessments including penetration tests and firewall evaluations. Ensured compliance with PCI DSS and improved security posture through regular assessments. Performed full security evaluations across multiple platforms.
+Conducted comprehensive security assessments including penetration tests and firewall evaluations. 
+Ensured compliance with PCI DSS and improved security posture through regular assessments. 
+Performed full security evaluations across multiple platforms.
 
 * Comprehensive penetration testing
 * Firewall posture assessments
@@ -62,7 +72,9 @@ Conducted comprehensive security assessments including penetration tests and fir
 ### Systems Administrator
 
 **Saginaw Veterans Affairs Medical Center** (2013 to 2018)
-Provided system administration support including managing networks and Active Directory. Automated electronic health records (EHR) systems and routine infrastructure tasks. Improved operational effectiveness through systematic automation.
+Provided system administration support including managing networks and Active Directory.
+Automated electronic health records (EHR) systems and routine infrastructure tasks. 
+Improved operational effectiveness through automation.
 
 * Network administration
 * EHR system automation
@@ -71,7 +83,9 @@ Provided system administration support including managing networks and Active Di
 ### Cyberwarfare Operator (1B4X1) (part time)
 
 **Michigan Air National Guard** (2016 to Present)
-Supports defensive cyberspace operations by planning and executing operations to protect national networks and systems. Conducts vulnerability assessments and participates in cyberspace training events. Applies cyber tactics and procedures to counter threats and support mission objectives.
+Supports defensive cyberspace operations by planning and executing operations to protect national networks and systems. 
+Conducts vulnerability assessments and participates in cyberspace training events. 
+Applies cyber tactics and procedures to counter threats and support mission objectives.
 
 * Defensive cyberspace operations
 * Vulnerability assessments
@@ -80,7 +94,9 @@ Supports defensive cyberspace operations by planning and executing operations to
 ### Information Technology Specialist (25B) (part time)
 
 **Michigan Army National Guard** (2007 to 2016)
-Provided general IT support including network management and routine technical support. Automated various system administration tasks to improve reliability. Regularly trained and supported staff to ensure effective communication and system availability.
+Provided general IT support including network management and routine technical support. 
+Automated various system administration tasks to improve reliability. 
+Regularly trained and supported staff to ensure effective communication and system availability.
 
 * IT system administration
 * Network management
