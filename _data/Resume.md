@@ -5,7 +5,9 @@
 ### Contact Information
 
 Email: [mwilco03@gmail.com](mailto:mwilco03@gmail.com)
+
 LinkedIn: [wilcom03](https://www.linkedin.com/in/wilcom03)
+
 GitHub: [mwilco03](https://github.com/mwilco03)
 
 ---
