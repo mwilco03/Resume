@@ -127,7 +127,7 @@ Contributions include:
 
 ## Technical Skills
 
-PowerShell, Python, Terraform, CloudFormation, AWS, Azure, Detection Engineering, Penetration Testing (Burp, Metasploit, ZAP, Nmap), PCI Compliance, SIEM, EDR, SOAR
+PowerShell, Python, CloudFormation, AWS, Azure, Detection Engineering, Penetration Testing (Burp, Metasploit, ZAP, Nmap), PCI Compliance, SIEM, EDR, SOAR
 
 ---
 
